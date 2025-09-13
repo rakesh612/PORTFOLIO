@@ -34,7 +34,7 @@ export default function Hero() {
                 Get in Touch
               </Link>
               <a
-                href="https://drive.google.com/file/d/1UENJg-iNEdGV2EAB-J417RcutV9A_BNH/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1o-yxjgycxG3qIsqJ5pB2hmYLQ30t1uhL/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors"
