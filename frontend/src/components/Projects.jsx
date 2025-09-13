@@ -4,17 +4,17 @@ export default function Projects() {
   const projects = [
     {
       title: "Colloborative Code Editor",
-      description: "A full-stack e-commerce platform with user authentication, product management, cart functionality, and payment integration.",
+      description: "Developed a secure real-time collaborative code editor with live sync, chat, and room management, featuring hybrid JWT-Redis authentication, Dockerized code execution, and deployment on GCP with caching, rate-limiting, and HTTPS.",
       image: "/Colloborative-code-editor.png",
-      technologies: ["React", "Node.js", "Express", "MongoDB", "Stripe"],
+      technologies: ["React", "Node.js", "Express", "MongoDB", "Socket.io"," Redis", "Docker", "BullMQ", "JWT"],
       liveLink: "https://collabcode.mooo.com",
       githubLink: "https://github.com/rakesh612/Collab_code-master"
     },
     {
       title: "LMS Portal",
-      description: "A real-time chat application with features like private messaging, group chats, file sharing, and online status indicators.",
+      description: "Built a role-based LMS with Google OAuth, dynamic quizzes, real-time tracking, AWS S3 content delivery, and Razorpay payments, deployed on AWS EC2 with SSL-secured Nginx for 99.9% uptime.",
       image: "/LMS-Portal.png",
-      technologies: ["React.js", "Socket.IO", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
+      technologies: ["React.js", "Google OAuth", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "AWS S3", "JWT"],
       liveLink: "https://educure.duckdns.org",
       githubLink: "https://github.com/rakesh612/LMS_PORTAL"
     }
