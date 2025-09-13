@@ -2,15 +2,43 @@ import { motion } from 'framer-motion';
 
 export default function Certifications() {
   const certifications = [
-    {
-      title: "SAP Certified Associate - Backend Developer - ABAP Cloud",
-      issuer: "SAP",
-      date: "2025",
-      description: "Validating expertise in ABAP development within the SAP ecosystem.",
-      credentialId: "SAP-ABAP-2024",
-      image: "/sap.png",
-      link: "https://drive.google.com/file/d/1WrO2tboEV-CouXUe75o7RZRFx1R7WRBX/view?usp=drive_link"
-    }
+{
+  title: "Web Development Intern",
+  issuer: "Octanet Services Pvt. Ltd",
+  date: "2024",
+  description: "2-month virtual internship focused on full-stack project development.",
+  credentialId: "OCTANET-2024",
+  image: "/octanet.png",
+  link: "https://drive.google.com/file/d/1QmxUa3RK1H9ytoYBKd2Fv7_MwGQSSddS/view?usp=drive_link"
+},
+{
+  title: "SAP Certified Associate - Backend Developer - ABAP Cloud",
+  issuer: "SAP",
+  date: "2025",
+  description: "Validated expertise in ABAP development within the SAP ecosystem.",
+  credentialId: "SAP-ABAP-2024",
+  image: "/sap.png",
+  link: "https://drive.google.com/file/d/1Wm4PlEl1qgwgGv8XoOrrEr7MYgx8I3OB/view?usp=drive_link"
+},
+{
+  title: "Infosys Springboard Java Foundation Certification",
+  issuer: "Infosys SpringBoard",
+  date: "2025",
+  description: "Validated foundational knowledge of Java programming, OOP, and core APIs.",
+  credentialId: "Infosys SpringBoard-JAVA-2025",
+  image: "/oracle.png",
+  link: "https://drive.google.com/your-oracle-certificate-linhttps://drive.google.com/file/d/1A5MopZJ2Umuwa-m7jGMJh4-GUqkdLVeW/view?usp=drive_link"
+},
+{
+  title: "AI-ML Virtual Internship",
+  issuer: "AICTE EduSkills (India Edu Program with Google for Developers)",
+  date: "Jan–Mar 2025",
+  description: "10-week virtual internship in Artificial Intelligence and Machine Learning.",
+  credentialId: "AICTE-ML-2025",
+  image: "/aicte.png",
+  link: "https://drive.google.com/file/d/162-uRq1rPJpH21EiKr93icNnO_E-PoH7/view?usp=drive_link"
+}
+
   ];
 
   return (
