@@ -8,7 +8,7 @@ export default function Certifications() {
   date: "2024",
   description: "2-month virtual internship focused on full-stack project development.",
   credentialId: "OCTANET-2024",
-  image: "/octanet.png",
+  image: "/Octanet.png",
   link: "https://drive.google.com/file/d/1QmxUa3RK1H9ytoYBKd2Fv7_MwGQSSddS/view?usp=drive_link"
 },
 {
@@ -26,7 +26,7 @@ export default function Certifications() {
   date: "2025",
   description: "Validated foundational knowledge of Java programming, OOP, and core APIs.",
   credentialId: "Infosys SpringBoard-JAVA-2025",
-  image: "/oracle.png",
+  image: "/Java.png",
   link: "https://drive.google.com/your-oracle-certificate-linhttps://drive.google.com/file/d/1A5MopZJ2Umuwa-m7jGMJh4-GUqkdLVeW/view?usp=drive_link"
 },
 {
@@ -35,7 +35,7 @@ export default function Certifications() {
   date: "Jan–Mar 2025",
   description: "10-week virtual internship in Artificial Intelligence and Machine Learning.",
   credentialId: "AICTE-ML-2025",
-  image: "/aicte.png",
+  image: "/AI-ML(Virtual Internship).png",
   link: "https://drive.google.com/file/d/162-uRq1rPJpH21EiKr93icNnO_E-PoH7/view?usp=drive_link"
 }
 

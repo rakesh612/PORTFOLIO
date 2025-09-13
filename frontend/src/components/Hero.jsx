@@ -17,10 +17,11 @@ export default function Hero() {
               Hi, I'm <span className="text-gray-900 dark:text-white">HANUMATH RAKESH</span>
             </h1>
             <h2 className="text-2xl md:text-3xl font-semibold mb-6 text-gray-700 dark:text-gray-300">
-              Full Stack Developer
+              Software Developer Engineer
             </h2>
             <p className="text-lg text-gray-600 dark:text-gray-400 mb-8 max-w-2xl">
-              I build exceptional digital experiences that make an impact. Specializing in creating beautiful, functional, and user-centered digital solutions.
+              Aspiring SDE skilled in building scalable applications, writing clean code, and collaborating in team-driven environments.
+Passionate about learning new technologies and contributing to innovative solutions and can efficiently use AI.
             </p>
             <div className="flex flex-wrap gap-4 justify-center md:justify-start">
               <Link
@@ -34,7 +35,7 @@ export default function Hero() {
                 Get in Touch
               </Link>
               <a
-                href="https://drive.google.com/file/d/1o-yxjgycxG3qIsqJ5pB2hmYLQ30t1uhL/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1jlkOxNWkKVhET8Tki-PHXcBzpd3Viwio/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors"

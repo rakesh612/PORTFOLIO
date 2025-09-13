@@ -14,7 +14,7 @@ export default function Skills() {
         "Node Js",
         "Mongo DB",
         "Tailwind CSS",
-        "Socket.IO"
+        "Socket.IO",
       ]
     },
     {
@@ -22,7 +22,11 @@ export default function Skills() {
       items: [
         "Java (DSA)",
         "Python",
-        "SQL"
+        "SQL",
+        "JavaScript",
+        "TypeScript",
+        "C++",
+        "C"
       ]
     },
     {
