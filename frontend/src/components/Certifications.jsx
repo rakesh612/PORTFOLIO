@@ -21,6 +21,15 @@ export default function Certifications() {
   link: "https://drive.google.com/file/d/1Wm4PlEl1qgwgGv8XoOrrEr7MYgx8I3OB/view?usp=drive_link"
 },
 {
+  title: "SAP Certified Professional - Solution Architect - SAP BTP",
+  issuer: "SAP",
+  date: "2025",
+  description: "Validated expertise in ABAP BTP development within the SAP ecosystem.",
+  credentialId: "SAP-BTP-2024",
+  image: "/sap.png",
+  link: "https://drive.google.com/file/d/1yq1R--ZgMNXf945QjHg_CVIekuLjfY80/view?usp=drive_link"
+},
+{
   title: "Infosys Springboard Java Foundation Certification",
   issuer: "Infosys SpringBoard",
   date: "2025",
