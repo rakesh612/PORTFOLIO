@@ -26,7 +26,7 @@ export default function Certifications() {
   date: "2025",
   description: "Validated expertise in ABAP BTP development within the SAP ecosystem.",
   credentialId: "SAP-BTP-2024",
-  image: "/sap.png",
+  image: "/SAP-BTP.png",
   link: "https://drive.google.com/file/d/1yq1R--ZgMNXf945QjHg_CVIekuLjfY80/view?usp=drive_link"
 },
 {
