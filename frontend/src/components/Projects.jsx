@@ -6,7 +6,7 @@ export default function Projects() {
       title: "Colloborative Code Editor",
       description: "Developed a secure real-time collaborative code editor with live sync, chat, and room management, featuring hybrid JWT-Redis authentication, Dockerized code execution, and deployment on GCP with caching, rate-limiting, and HTTPS.",
       image: "/Colloborative-code-editor.png",
-      technologies: ["React", "Node.js", "Express", "MongoDB", "Socket.io"," Redis", "Docker", "BullMQ", "JWT"],
+      technologies: ["React.js", "Node.js", "Express", "MongoDB", "Socket.io"," Redis", "Docker", "BullMQ", "JWT"],
       liveLink: "https://collabcode.mooo.com",
       githubLink: "https://github.com/rakesh612/Collab_code-master"
     },
@@ -17,6 +17,14 @@ export default function Projects() {
       technologies: ["React.js", "Google OAuth", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "AWS S3", "JWT"],
       liveLink: "https://educure.duckdns.org",
       githubLink: "https://github.com/rakesh612/LMS_PORTAL"
+    },
+    {
+      title: "E-Commerce",
+      description: "Built a full-stack e-commerce platform using the MERN stack with Vite, Tailwind CSS, and Stripe for secure payments, featuring authentication, product browsing, cart management, and Redis-based starred products.Admins can monitor business performance through sales analytics dashboards powered by Recharts.",
+      image: "/ecommerce.png",
+      technologies: ["React.js", "Re-Charts", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "Axios", "JWT"],
+      // liveLink: "https://educure.duckdns.org",
+      githubLink: "https://github.com/rakesh612/E-Commerce-Site"
     }
   ];
 
