@@ -15,6 +15,8 @@ export default function Skills() {
         "Mongo DB",
         "Tailwind CSS",
         "Socket.IO",
+        "MySql",
+        "Next js",
       ]
     },
     {
@@ -34,7 +36,7 @@ export default function Skills() {
       items: [
         "SAP ABAP",
         "SAP HANA",
-        "SAP HR Management"
+        "SAP Organizational Management and Personal Administration"
       ]
     },
     {

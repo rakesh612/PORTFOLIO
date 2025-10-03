@@ -25,6 +25,14 @@ export default function Projects() {
       technologies: ["React.js", "Re-Charts", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "Axios", "JWT"],
       // liveLink: "https://educure.duckdns.org",
       githubLink: "https://github.com/rakesh612/E-Commerce-Site"
+    },
+        {
+      title: "Zero-Waste",
+      description: "ZeroWaste is a web-based platform designed to minimize food waste by connecting donors with NGOs and individuals in need. Leveraging AI and geolocation technologies, the system ensures efficient food rescue operations, promoting sustainability and community welfare.",
+      image: "/Zero-Waste.png",
+      technologies: ["React.js", "Socket.io", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "Axios", "JWT", "TensorFlow", "Google Maps Api"],
+      // liveLink: "https://educure.duckdns.org",
+      githubLink: "https://github.com/rakesh612/food-donation"
     }
   ];
 
