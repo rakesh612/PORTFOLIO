@@ -6,7 +6,19 @@ export default function Education() {
       degree: "Bachelor's Degree in Computer Science and Information Technology",
       period: "2022 - 2026",
       institution: "Mohan Babu University",
-      description: "Currently in my 4th year pursuing my undergraduate degree in Computer Science and Information Technology."
+      description: "Currently in my 4th year pursuing my undergraduate degree in Computer Science and Information Technology with Academic CGPA - 9.59."
+    },
+    {
+      degree: "Intermediate(MPC)",
+      period: "2020 - 2022",
+      institution: "MSR Junior College",
+      description: "Completed my 12th Intermediate in MPC with 951/1000 marks."
+    },
+    {
+      degree: "10th class",
+      period: "2019 - 2020",
+      institution: "Sri Chaitanya Techno School",
+      description: "Completed my 10th with 592/600 marks."
     }
   ];
 

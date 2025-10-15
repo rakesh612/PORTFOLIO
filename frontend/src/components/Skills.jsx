@@ -3,32 +3,64 @@ import { motion } from 'framer-motion';
 export default function Skills() {
   const skills = [
     {
-      category: "Web Skills",
+      category: "Programming Languages",
       items: [
-        "HTML",
-        "CSS",
+        "Java",
+        "Python",
+        "C++",
+        "C",
         "JavaScript",
-        "Bootstrap",
-        "React Js",
-        "Express Js",
-        "Node Js",
-        "Mongo DB",
-        "Tailwind CSS",
-        "Socket.IO",
-        "MySql",
-        "Next js",
+        "TypeScript",
+        "SQL"
       ]
     },
     {
-      category: "Programming Languages",
+      category: "Frontend Technologies",
       items: [
-        "Java (DSA)",
-        "Python",
-        "SQL",
-        "JavaScript",
-        "TypeScript",
-        "C++",
-        "C"
+        "React.js",
+        "Next.js",
+        "Tailwind CSS",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      category: "Backend & APIs",
+      items: [
+        "Node.js",
+        "Express.js",
+        "RESTful APIs",
+        "JWT Authentication",
+        "Socket.IO"
+      ]
+    },
+    {
+      category: "Databases",
+      items: [
+        "MongoDB",
+        "MySQL"
+      ]
+    },
+    {
+      category: "Cloud & Deployment",
+      items: [
+        "AWS",
+        "Docker",
+        "Vercel",
+        "Render",
+        "Cloudinary"
+      ]
+    },
+    {
+      category: "Tools & Platforms",
+      items: [
+        "VS Code",
+        "SAP Logon",
+        "IntelliJ IDEA",
+        "Git",
+        "GitHub",
+        "Postman",
+        "Linux"
       ]
     },
     {
@@ -36,21 +68,8 @@ export default function Skills() {
       items: [
         "SAP ABAP",
         "SAP HANA",
-        "SAP Organizational Management and Personal Administration"
-      ]
-    },
-    {
-      category: "Tools & Others",
-      items: [
-        "VS Code",
-        "Git Hub",
-        "Mongo DB Atlas",
-        "Mongo DB Compass",
-        "Firebase",
-        "Cloudinary",
-        "SAP Logon",
-        "Git",
-        "IntelliJ"
+        "Organizational Management (OM)",
+        "Personnel Administration (PA) in HCM Module"
       ]
     }
   ];
