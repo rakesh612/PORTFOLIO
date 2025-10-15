@@ -26,14 +26,23 @@ export default function Projects() {
       // liveLink: "https://educure.duckdns.org",
       githubLink: "https://github.com/rakesh612/E-Commerce-Site"
     },
-        {
+    {
       title: "Zero-Waste",
       description: "ZeroWaste is a web-based platform designed to minimize food waste by connecting donors with NGOs and individuals in need. Leveraging AI and geolocation technologies, the system ensures efficient food rescue operations, promoting sustainability and community welfare.",
       image: "/Zero-Waste.png",
       technologies: ["React.js", "Socket.io", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "Axios", "JWT", "TensorFlow", "Google Maps Api"],
       // liveLink: "https://educure.duckdns.org",
       githubLink: "https://github.com/rakesh612/food-donation"
+    },
+    {
+      title: "Online Job-Portal",
+      description: "2026SpringbootDesigned and developed a full-featured job portal that connects job seekers with employers",
+      image: "/Job-Portal.png",
+      technologies: ["React.js", "SpringBoot", "Java"],
+      // liveLink: "https://educure.duckdns.org",
+      githubLink: "https://github.com/rakesh612/Job-Portal"
     }
+
   ];
 
   return (

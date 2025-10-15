@@ -35,7 +35,7 @@ Passionate about learning new technologies and contributing to innovative soluti
                 Get in Touch
               </Link>
               <a
-                href="https://drive.google.com/file/d/1B5Od1iLUN5M-c6lc6z60sAq4uU4iee1c/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1nyhxnLeX2gn4jFwBa93QekNw7lWSCfha/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors"
@@ -88,7 +88,7 @@ Passionate about learning new technologies and contributing to innovative soluti
               <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full opacity-20 animate-pulse"></div>
               <div className="absolute inset-4 bg-white dark:bg-gray-800 rounded-full flex items-center justify-center">
                 <img
-                  src="/pass-photo.jpg"
+                  src="/Technical.png"
                   alt="HANUMATH RAKESH - Full Stack Developer"
                   className="w-full h-full object-cover rounded-full"
                 />
