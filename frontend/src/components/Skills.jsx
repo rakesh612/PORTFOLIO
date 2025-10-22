@@ -41,7 +41,8 @@ export default function Skills() {
       category: "Databases",
       items: [
         "MongoDB",
-        "MySQL"
+        "MySQL",
+        "SAP HANA"
       ]
     },
     {
