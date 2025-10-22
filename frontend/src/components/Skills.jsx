@@ -21,7 +21,9 @@ export default function Skills() {
         "Next.js",
         "Tailwind CSS",
         "HTML",
-        "CSS"
+        "CSS", 
+        "Redux",
+        "Zustand"
       ]
     },
     {
@@ -31,7 +33,8 @@ export default function Skills() {
         "Express.js",
         "RESTful APIs",
         "JWT Authentication",
-        "Socket.IO"
+        "Socket.IO",
+        "Tanstack Query"
       ]
     },
     {
