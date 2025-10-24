@@ -3,6 +3,22 @@ import { motion } from 'framer-motion';
 export default function Projects() {
   const projects = [
     {
+      title: "E-Commerce",
+      description: "Built a full-stack e-commerce platform using the MERN stack with Vite, Tailwind CSS, and Stripe for secure payments, featuring authentication, product browsing, cart management, and Redis-based starred products.Admins can monitor business performance through sales analytics dashboards powered by Recharts.",
+      image: "/ecommerce.png",
+      technologies: ["React.js", "Re-Charts", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "Axios", "JWT"],
+      // liveLink: "https://educure.duckdns.org",
+      githubLink: "https://github.com/rakesh612/E-Commerce-Site"
+    },
+    {
+      title: "Online Chat App",
+      description: "Developed an online website with a user-friendly, responsive UI using React, Tailwind CSS, and DaisyUI, ensuring seamless performance across all devices. Implemented secure user authentication and real-time chat functionality using Socket.IO on the backend, with MongoDB for efficient storage and retrieval of chat data.",
+      image: "/chat-app.png",
+      technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "Axios", "JWT", "Socket.io"],
+      // liveLink: "https://educure.duckdns.org",
+      githubLink: "https://github.com/rakesh612/Chat_App"
+    },
+    {
       title: "Colloborative Code Editor",
       description: "Developed a secure real-time collaborative code editor with live sync, chat, and room management, featuring hybrid JWT-Redis authentication, Dockerized code execution, and deployment on GCP with caching, rate-limiting, and HTTPS.",
       image: "/Colloborative-code-editor.png",
@@ -17,14 +33,6 @@ export default function Projects() {
       technologies: ["React.js", "Google OAuth", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "AWS S3", "JWT"],
       liveLink: "https://educure.duckdns.org",
       githubLink: "https://github.com/rakesh612/LMS_PORTAL"
-    },
-    {
-      title: "E-Commerce",
-      description: "Built a full-stack e-commerce platform using the MERN stack with Vite, Tailwind CSS, and Stripe for secure payments, featuring authentication, product browsing, cart management, and Redis-based starred products.Admins can monitor business performance through sales analytics dashboards powered by Recharts.",
-      image: "/ecommerce.png",
-      technologies: ["React.js", "Re-Charts", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "Axios", "JWT"],
-      // liveLink: "https://educure.duckdns.org",
-      githubLink: "https://github.com/rakesh612/E-Commerce-Site"
     },
     {
       title: "Zero-Waste",
@@ -42,7 +50,6 @@ export default function Projects() {
       // liveLink: "https://educure.duckdns.org",
       githubLink: "https://github.com/rakesh612/Job-Portal"
     }
-
   ];
 
   return (
