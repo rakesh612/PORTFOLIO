@@ -42,7 +42,8 @@ export default function Skills() {
       items: [
         "MongoDB",
         "MySQL",
-        "SAP HANA"
+        "SAP HANA",
+        "PostgreSQL"
       ]
     },
     {
