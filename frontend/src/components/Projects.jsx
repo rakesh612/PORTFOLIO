@@ -2,6 +2,14 @@ import { motion } from 'framer-motion';
 
 export default function Projects() {
   const projects = [
+     {
+      title: "Workspace & Project Management Platform",
+      description: "Built a multi-workspace collaboration system with independent projects, tasks, and members, enhancing productivity across teams. Implemented task assignment with due-dates, progress analytics, member activity tracking, and secure role-based invitations \& access control.",
+      image: "/Project-MGNT.png",
+      technologies: ["React.js", "PostgreSQL", "Node.js", "Express.js", "Tailwind CSS", "Axios", "Clerk", "Prisma"],
+      liveLink: "https://project-mgt-wine.vercel.app/",
+      githubLink: "https://github.com/rakesh612/Project-Management"
+    },
     {
       title: "E-Commerce",
       description: "Built a full-stack e-commerce platform using the MERN stack with Vite, Tailwind CSS, and Stripe for secure payments, featuring authentication, product browsing, cart management, and Redis-based starred products.Admins can monitor business performance through sales analytics dashboards powered by Recharts.",
