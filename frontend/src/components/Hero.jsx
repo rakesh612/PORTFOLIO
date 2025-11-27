@@ -35,7 +35,7 @@ Passionate about learning new technologies and contributing to innovative soluti
                 Get in Touch
               </Link>
               <a
-                href="https://drive.google.com/file/d/1qw_86dEvRfUkoNfyIlS8zEf7AYoSLFKw/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1QE3_HavVZVxHsxEpKOzHNbD8vP3GTU8h/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors"
