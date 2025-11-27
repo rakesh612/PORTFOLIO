@@ -11,6 +11,14 @@ export default function Projects() {
       githubLink: "https://github.com/rakesh612/Project-Management"
     },
     {
+      title: "Multi-Vendor E-Commerce Platform",
+      description: "• Built a scalable multi-vendor marketplace with independent vendor storefronts, product management, salesanalytics, and real-time order tracking, plus a responsive customer storefront for browsing and checkout.Developed an admin panel for vendor management, commissions, and product approvals, using Next.js, TailwindCSS, Redux Toolkit, and Lucide React for a fast, maintainable platform.",
+      image: "/GoCart.png",
+      technologies: ["Next.js", "PostgreSQL", "Node.js", "Express.js", "Tailwind CSS", "Axios", "Clerk", "Prisma", "Redux Toolkit", "Lucide React"],
+      liveLink: "https://gocart-full-stack-project.vercel.app/",
+      githubLink: "https://github.com/rakesh612/gocart_fullStack_project"
+    },
+    {
       title: "E-Commerce",
       description: "Built a full-stack e-commerce platform using the MERN stack with Vite, Tailwind CSS, and Stripe for secure payments, featuring authentication, product browsing, cart management, and Redis-based starred products.Admins can monitor business performance through sales analytics dashboards powered by Recharts.",
       image: "/ecommerce.png",
