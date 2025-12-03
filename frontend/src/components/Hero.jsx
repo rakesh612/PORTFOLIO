@@ -32,7 +32,7 @@ Passionate about learning new technologies and contributing to innovative soluti
                 duration={500}
                 className="btn btn-primary cursor-pointer"
               >
-                Get in Touch
+              Get in Touch
               </Link>
               <a
                 href="https://drive.google.com/file/d/1QE3_HavVZVxHsxEpKOzHNbD8vP3GTU8h/view?usp=drive_link"
